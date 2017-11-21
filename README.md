@@ -1,2 +1,3 @@
 # LineFollowingBot
-Arduino Code for Bot that follows a line
+Arduino Code for Bot that follows a line.
+
